@@ -269,7 +269,7 @@ class Node:
     def setLink(self, node):
         self.link = node
 
-    # method returns data feild of the Node
+    # method returns data field of the Node
     def getData(self):
         return self.data
 

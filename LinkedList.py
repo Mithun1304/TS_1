@@ -265,7 +265,7 @@ class Node:
     def updateData(self, data):
         self.data = data
 
-    # method to set Link feild the Node
+    # method to set Link field the Node
     def setLink(self, node):
         self.link = node
 
